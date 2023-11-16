@@ -1,0 +1,52 @@
+
+build/*
+*.o
+*~
+.vscode/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# qt files
+*.pro.user*
+.qmake*
+moc/
+moc_*
+ui_*
+
+# shadow build directories
+build-*
+Makefile
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Visual Studio Crap
+*.vcproj
+*.vcxproj
+*.sln
+*.user
+*.filters
+
+# Executables
+*.exe
+*.out
+
+#Cmake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+build*
