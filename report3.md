@@ -33,7 +33,3 @@ There are 2 arrays to manage the user input for the spheres. The "m_randomSphere
 2. There are a few physics bugs still remaining, I would like to fix them in the future.
 2. I also plan to add more complex object to object collisions.
 3. As the logic of the collision system grows, the performance will likely get affected. Henceforth, I will look at techniques and methods to optimise collision detection and resolution.
-
-## Link for the collision system demo
-
-Demo Link: https://youtu.be/jn2dYeo2kVg
